@@ -45,7 +45,7 @@
 
 <!-- ABOUT -->
 
-<h2 align="center">01 / THE ANALYST BEHIND THE DATA</h2>
+<h2 align="center">THE ANALYST BEHIND THE DATA</h2>
 
 <div align="center">
 
@@ -67,7 +67,7 @@ A small decision made without the right information can create consequences much
 
 <!-- ANALYTICAL APPROACH -->
 
-<h2 align="center">02 / HOW I APPROACH A PROBLEM</h2>
+<h2 align="center">HOW I APPROACH A PROBLEM</h2>
 
 <div align="center">
 
@@ -118,7 +118,7 @@ What should the business do next?
 
 <!-- SKILLS -->
 
-<h2 align="center">03 / TECHNICAL TOOLKIT</h2>
+<h2 align="center">TECHNICAL TOOLKIT</h2>
 
 <div align="center">
 
@@ -132,34 +132,34 @@ What should the business do next?
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-ADVANCED-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-ADVANCED-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-ADVANCED-F2C811?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-ADVANCED-F2C811?style=flat-square&logo=postgresql&logoColor=white"/>
 
 <br/><br/>
 
 ### DATA ANALYSIS & VISUALIZATION
 
-<img src="https://img.shields.io/badge/Pandas-ADVANCED-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-ADVANCED-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ADVANCED-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Seaborn-ADVANCED-4C72B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-ADVANCED-F2C811?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-ADVANCED-F2C811?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ADVANCED-F2C811?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-ADVANCED-F2C811?style=flat-square"/>
 
 <br/><br/>
 
 ### BUSINESS INTELLIGENCE
 
 <img src="https://img.shields.io/badge/Power%20BI-ADVANCED-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-ADVANCED-DBA800?style=flat-square"/>
-<img src="https://img.shields.io/badge/Excel-ADVANCED-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20Query-ADVANCED-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/DAX-ADVANCED-F2C811?style=flat-square"/>
+<img src="https://img.shields.io/badge/Excel-ADVANCED-F2C811?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Query-ADVANCED-F2C811?style=flat-square"/>
 
 <br/><br/>
 
 ### STATISTICS & MACHINE LEARNING
 
-<img src="https://img.shields.io/badge/Statistics-ADVANCED-0E7490?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hypothesis%20Testing-ADVANCED-0E7490?style=flat-square"/>
-<img src="https://img.shields.io/badge/A%2FB%20Testing-ADVANCED-0E7490?style=flat-square"/>
+<img src="https://img.shields.io/badge/Statistics-ADVANCED-F2C811?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hypothesis%20Testing-ADVANCED-F2C811?style=flat-square"/>
+<img src="https://img.shields.io/badge/A%2FB%20Testing-ADVANCED-F2C811?style=flat-square"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-INTERMEDIATE-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 <br/><br/>
@@ -170,8 +170,8 @@ What should the business do next?
 
 <br/>
 
-<img src="https://img.shields.io/badge/Git-INTERMEDIATE-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-INTERMEDIATE-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-INTERMEDIATE-F7931E?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-INTERMEDIATE-F7931E?style=flat-square&logo=github&logoColor=white"/>
 
 </div>
 
@@ -179,7 +179,7 @@ What should the business do next?
 
 <!-- PROJECTS -->
 
-<h2 align="center">04 / SELECTED ANALYTICS PROJECTS</h2>
+<h2 align="center">SELECTED ANALYTICS PROJECTS</h2>
 
 <div align="center">
 
@@ -271,27 +271,27 @@ An interactive Power BI project examining payroll distribution, overtime expendi
 
 <!-- IMPACT -->
 
-<h2 align="center">05 / BUSINESS IMPACT</h2>
+<h2 align="center">BUSINESS IMPACT</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 # 26%
 
 **Retention Improvement**
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 # 61% → 87%
 
 **Completion Rate**
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 # 12+
 
@@ -309,7 +309,7 @@ An interactive Power BI project examining payroll distribution, overtime expendi
 
 <!-- EXPERIENCE -->
 
-<h2 align="center">06 / PROFESSIONAL EXPERIENCE</h2>
+<h2 align="center">PROFESSIONAL EXPERIENCE</h2>
 
 <div align="center">
 
@@ -330,7 +330,7 @@ An interactive Power BI project examining payroll distribution, overtime expendi
 
 <!-- EDUCATION -->
 
-<h2 align="center">07 / EDUCATION</h2>
+<h2 align="center">EDUCATION</h2>
 
 <div align="center">
 
