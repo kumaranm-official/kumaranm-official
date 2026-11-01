@@ -1,137 +1,226 @@
 
-<!-- =============== HEADER =============== -->
+<!-- ======================================================
+     KUMARAN M | DATA ANALYST
+     PROFILE README | DESIGN SYSTEM: MIDNIGHT ANALYTICS
+======================================================= -->
 
+<!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Kumaran%20M&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BUSINESS%20ANALYTICS&descAlignY=60&descSize=17&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,45:12304A,100:087E8B&text=KUMARAN%20M&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BUSINESS%20ANALYTICS&descSize=17&descAlignY=58&animation=twinkling" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Data+into+Decisions;Finding+the+Story+Behind+the+Numbers;Exploring+Data.+Discovering+Patterns.;Building+Insights+That+Drive+Action." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=35D6D0&center=true&vCenter=true&width=760&lines=I+find+the+story+behind+the+numbers.;I+turn+business+questions+into+data+questions.;I+analyse.+Validate.+Recommend.;Better+decisions+start+with+better+questions." />
 
-<p>
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-238636?style=flat-square" />
-  <img src="https://img.shields.io/badge/Role-Data%20Analyst-0077B5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-8957e5?style=flat-square" />
-</p>
+<br/>
 
 <a href="https://www.linkedin.com/in/mkumaran13">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:kumaranm.ofcl@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://github.com/kumaranm-official">
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/3%2B%20YEARS-ANALYTICS-0B7285?style=flat-square"/>
+<img src="https://img.shields.io/badge/CHENNAI-INDIA-164E63?style=flat-square"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-DATA%20ANALYST%20ROLES-166534?style=flat-square"/>
 
 </div>
 
 ---
 
-<!-- =============== ABOUT =============== -->
-
-<h2 align="center">◈ ABOUT ME</h2>
+<!-- ANIMATED ANALYTICS HERO -->
 
 <div align="center">
 
-**I don't just look at what happened. I look for why it happened and what can be done next.**
+<img width="100%" src="https://raw.githubusercontent.com/kumaranm-official/kumaranm-official/main/assets/analytics-motion.gif" alt="Animated data analytics dashboard"/>
 
 </div>
 
-I'm **Kumaran**, a Data Analyst with 3+ years of experience, currently working at **ENTRI**.
+---
 
-I work with data to uncover patterns, identify performance gaps and understand the factors influencing business outcomes.
+<!-- ABOUT -->
 
-My experience includes learner behaviour, customer retention, engagement, cohort analysis and business performance.
+<h2 align="center">01 / THE ANALYST BEHIND THE DATA</h2>
 
-I believe data analysis is not just about reporting numbers. It's about asking the right questions, validating assumptions and turning findings into decisions that make a measurable difference.
+<div align="center">
+
+### Data is everywhere. Meaningful answers are not.
+
+</div>
+
+I'm **Kumaran M**, a Data Analyst with 3+ years of experience in analytics, currently working at **ENTRI**.
+
+My work revolves around understanding business performance through data. I explore patterns, investigate unexpected changes, identify bottlenecks and translate findings into actionable recommendations.
+
+At ENTRI, I work with learner behaviour, engagement, retention and performance data to understand what drives outcomes and where improvements are needed.
+
+**What drives my interest?**
+
+A small decision made without the right information can create consequences much larger than expected. I enjoy using data to reduce that uncertainty and help businesses make decisions based on evidence rather than assumptions.
 
 ---
 
-<!-- =============== SKILLS =============== -->
+<!-- ANALYTICAL APPROACH -->
 
-<h2 align="center">◈ TECH STACK</h2>
+<h2 align="center">02 / HOW I APPROACH A PROBLEM</h2>
 
-<h3 align="center">Programming & Data Analysis</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql" />
-</p>
+<table>
+<tr>
+<td align="center" width="25%">
 
-<p align="center">
+### 01
+
+**ASK**
+
+What is the actual business problem?
+
+</td>
+<td align="center" width="25%">
+
+### 02
+
+**EXPLORE**
+
+What does the data reveal?
+
+</td>
+<td align="center" width="25%">
+
+### 03
+
+**VALIDATE**
+
+Are the findings statistically reliable?
+
+</td>
+<td align="center" width="25%">
+
+### 04
+
+**ACT**
+
+What should the business do next?
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- SKILLS -->
+
+<h2 align="center">03 / TECHNICAL TOOLKIT</h2>
+
+<div align="center">
+
+**My tools for extracting, transforming, analysing and communicating data.**
+
+<br/>
+
+### PROGRAMMING & QUERYING
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql&theme=dark" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/Python-ADVANCED-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-ADVANCED-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+<br/><br/>
+
+### DATA ANALYSIS & VISUALIZATION
+
 <img src="https://img.shields.io/badge/Pandas-ADVANCED-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-ADVANCED-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
-
-<h3 align="center">Business Intelligence & Visualization</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Power%20BI-ADVANCED-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-ADVANCED-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20Query-ADVANCED-5E5E5E?style=flat-square"/>
 <img src="https://img.shields.io/badge/Matplotlib-ADVANCED-11557C?style=flat-square"/>
 <img src="https://img.shields.io/badge/Seaborn-ADVANCED-4C72B0?style=flat-square"/>
-</p>
 
-<h3 align="center">Statistics & Machine Learning</h3>
+<br/><br/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Statistics-ADVANCED-8957E5?style=flat-square"/>
+### BUSINESS INTELLIGENCE
+
+<img src="https://img.shields.io/badge/Power%20BI-ADVANCED-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-ADVANCED-DBA800?style=flat-square"/>
+<img src="https://img.shields.io/badge/Excel-ADVANCED-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Query-ADVANCED-5E5E5E?style=flat-square"/>
+
+<br/><br/>
+
+### STATISTICS & MACHINE LEARNING
+
+<img src="https://img.shields.io/badge/Statistics-ADVANCED-0E7490?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hypothesis%20Testing-ADVANCED-0E7490?style=flat-square"/>
+<img src="https://img.shields.io/badge/A%2FB%20Testing-ADVANCED-0E7490?style=flat-square"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-INTERMEDIATE-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-</p>
 
-<h3 align="center">Development & Version Control</h3>
+<br/><br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+### VERSION CONTROL
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Git-INTERMEDIATE-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-INTERMEDIATE-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+
+</div>
 
 ---
 
-<!-- =============== PROJECTS =============== -->
+<!-- PROJECTS -->
 
-<h2 align="center">◈ FEATURED PROJECTS</h2>
+<h2 align="center">04 / SELECTED ANALYTICS PROJECTS</h2>
 
-<p align="center">
-<em>Turning raw datasets into meaningful business insights.</em>
-</p>
+<div align="center">
+
+*Real business questions. Structured analysis. Meaningful findings.*
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">01. E-Commerce & Retail Analytics</h3>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PROJECT%2001-SQL%20ANALYTICS-087E8B?style=for-the-badge"/>
+
+### AUTO PARTS E-COMMERCE
+
+**Retail Sales & Customer Analytics**
 
 </div>
 
-**Auto Parts E-Commerce & Retail Sales Analysis**
+A PostgreSQL-based project exploring sales performance, customer purchasing patterns and revenue behaviour.
 
-A SQL-driven sales analytics project exploring business performance, customer behaviour and revenue trends.
+**Business questions explored**
 
-**Key analysis**
+- How are sales changing MoM and YoY?
+- Where do customers drop off in the order funnel?
+- Which customer segments generate the most value?
+- How does pricing influence product performance?
+- What are the return, refund and retention patterns?
 
-- MoM & YoY sales performance
-- Order funnel analysis
-- Customer cohort analysis
-- Customer Lifetime Value
-- RFM segmentation
-- Product pricing impact
-- Returns & refunds
-- Customer retention
+**Analytical methods**
 
-**SQL:** CTEs · Window Functions · Subqueries · Views
+`CTEs` `Window Functions` `Subqueries` `Views`
+
+`Cohort Analysis` `CLV` `RFM Segmentation`
 
 <div align="center">
 
 <a href="https://github.com/kumaranm-official/Auto_Parts_Ecommerce_and_Retail_Sales_Analysis">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -140,33 +229,36 @@ A SQL-driven sales analytics project exploring business performance, customer be
 
 <td width="50%" valign="top">
 
-<h3 align="center">02. Corporate Payroll Analytics</h3>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/PROJECT%2002-POWER%20BI-DBA800?style=for-the-badge"/>
+
+### CORPORATE PAYROLL
+
+**Payroll & Workforce Cost Analytics**
 
 </div>
 
-**Corporate Payroll Analysis – Snowflake Schema**
+An interactive Power BI project examining payroll distribution, overtime expenditure and budget performance.
 
-An interactive BI project examining payroll distribution, workforce costs and budget performance.
+**Business questions explored**
 
-**Key analysis**
+- Which industries and departments account for the highest payroll?
+- How much is spent on overtime?
+- How does actual payroll compare with budget?
+- How are payroll expenses changing over time?
+- Which divisions contribute most to payroll expenditure?
 
-- Industry-wise payroll distribution
-- Department & division analysis
-- Overtime payment analysis
-- Budget vs actual payroll
-- MoM & YoY payroll spending
-- Workforce cost trends
+**Technical methods**
 
-**Concepts:** DAX · Snowflake Schema · Data Modelling · Time Intelligence
+`DAX` `Snowflake Schema` `Data Modelling`
+
+`Time Intelligence` `KPI Development`
 
 <div align="center">
 
 <a href="https://github.com/kumaranm-official/Corporate_Payroll_Analysis_Snowflake_Schema">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-927000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -177,84 +269,105 @@ An interactive BI project examining payroll distribution, workforce costs and bu
 
 ---
 
-<!-- =============== EXPERTISE =============== -->
+<!-- IMPACT -->
 
-<h2 align="center">◈ AREAS OF EXPERTISE</h2>
+<h2 align="center">05 / BUSINESS IMPACT</h2>
 
 <div align="center">
 
-| Business Analytics | Technical Analytics |
-|:---:|:---:|
-| Business Performance Analysis | Exploratory Data Analysis |
-| Customer Behaviour | SQL Analytics |
-| Cohort & Retention Analysis | Data Visualization |
-| Customer Segmentation | Statistical Analysis |
-| KPI Monitoring | Hypothesis Testing |
-| Business Recommendations | A/B Testing |
-| Sales & Revenue Analysis | Data Modelling |
+<table>
+<tr>
+<td align="center" width="33%">
+
+# 26%
+
+**Retention Improvement**
+
+</td>
+<td align="center" width="33%">
+
+# 61% → 87%
+
+**Completion Rate**
+
+</td>
+<td align="center" width="33%">
+
+# 12+
+
+**KPIs Monitored**
+
+</td>
+</tr>
+</table>
+
+<sub>Outcomes from learner analytics work at ENTRI; completion improvement measured over eight months.</sub>
 
 </div>
 
 ---
 
-<!-- =============== EXPERIENCE =============== -->
+<!-- EXPERIENCE -->
 
-<h2 align="center">◈ PROFESSIONAL EXPERIENCE</h2>
+<h2 align="center">06 / PROFESSIONAL EXPERIENCE</h2>
 
 <div align="center">
 
-### Data Analyst @ ENTRI.app
+### DATA ANALYST | ENTRI.APP
 
-<sub>Business Analytics · Learner Analytics · Product Insights</sub>
+*Learner Analytics · Product Insights · Business Performance*
 
 </div>
 
-- Developed a Power BI dashboard with daily data refresh, tracking **12+ KPIs** using DAX and a Snowflake schema.
-- Analysed learner cohorts and identified retention bottlenecks, contributing to a **26% retention improvement**.
-- Supported an increase in learner completion rates from **61% to 87% over 8 months**.
-- Conduct monthly performance, engagement and retention analysis.
-- Perform A/B testing, cohort analysis and statistical validation to evaluate learner segments.
+- Execute monthly analysis of learner performance, engagement and retention.
+- Developed a Power BI dashboard with daily data refresh, tracking 12+ KPIs using DAX and a Snowflake schema.
+- Analysed cohort behaviour and identified retention bottlenecks, contributing to a 26% retention improvement.
+- Contributed to completion rate growth from 61% to 87% over eight months.
+- Conduct A/B testing, cohort analysis and statistical validation across learner segments.
+- Communicate analytical findings to product and operations teams.
 
 ---
 
-<!-- =============== EDUCATION =============== -->
+<!-- EDUCATION -->
 
-<h2 align="center">◈ EDUCATION</h2>
+<h2 align="center">07 / EDUCATION</h2>
 
 <div align="center">
 
-**B.Tech – Artificial Intelligence and Data Science**
+**B.Tech — Artificial Intelligence and Data Science**
 
-Kings Engineering College | 2025
+Kings Engineering College · 2025
 
 </div>
 
 ---
 
-<!-- =============== CONTACT =============== -->
-
-<h2 align="center">◈ LET'S CONNECT</h2>
+<!-- CONTACT -->
 
 <div align="center">
 
-I'm interested in Data Analyst opportunities where I can apply analytical thinking and technical skills to solve real-world business problems.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:07111F,100:087E8B&height=3"/>
+
+<h2>LET'S TURN DATA INTO BETTER DECISIONS.</h2>
+
+I'm interested in Data Analyst opportunities where I can combine technical expertise, analytical thinking and business understanding to solve real-world problems.
+
+<br/>
 
 <a href="https://www.linkedin.com/in/mkumaran13">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kumaranm.ofcl@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kumaranm-official">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-EMAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**"Good analysis doesn't end with an insight. It starts a better decision."**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=35D6D0&center=true&vCenter=true&width=600&lines=Ask+better+questions.;Find+meaningful+patterns.;Make+evidence-based+decisions."/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087E8B,50:12304A,100:07111F&height=120&section=footer"/>
 
 </div>
