@@ -358,9 +358,10 @@ I'm interested in Data Analyst opportunities where I can combine technical exper
 <img src="https://img.shields.io/badge/LET'S%20CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!-- <a href="mailto:kumaranm.ofcl@gmail.com">
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-EMAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a> -->
+<a href="https://github.com/kumaranm-official/Certifications/blob/main/MyResume.pdf">
+<img src="https://img.shields.io/badge/Download%20My-Resume-DB4437?style=for-the-badge&logo=reader&logoColor=white"/>
+</a>
+
 <div>Email: <b><i>kumaranm.ofcl@gmail.com</i></b></div>
 
 <br/><br/>
