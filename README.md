@@ -1,17 +1,29 @@
+
+<!-- ======================================================
+     KUMARAN M | DATA ANALYST
+     PROFILE README | DESIGN SYSTEM: MIDNIGHT ANALYTICS
+======================================================= -->
+
+<!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="assets/analytics-motion.gif" alt="Animated data analytics dashboard banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,45:12304A,100:087E8B&text=KUMARAN%20M&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BUSINESS%20ANALYTICS&descSize=17&descAlignY=58&animation=twinkling" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=35D6D0&center=true&vCenter=true&width=780&lines=I+find+the+story+behind+the+numbers.;I+turn+business+questions+into+data+questions.;I+analyse.+Validate.+Recommend.;Better+decisions+start+with+better+questions." />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/mkumaran13"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/kumaranm-official"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-**Email:** *kumaranm.ofcl@gmail.com*
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=35D6D0&center=true&vCenter=true&width=760&lines=I+find+the+story+behind+the+numbers.;I+turn+business+questions+into+data+questions.;I+analyse.+Validate.+Recommend.;Better+decisions+start+with+better+questions." />
 
 <br/>
+
+<a href="https://www.linkedin.com/in/mkumaran13">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<!--<a href="mailto:kumaranm.ofcl@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a> -->
+<a href="https://github.com/kumaranm-official">
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<div>Email: <b><i>kumaranm.ofcl@gmail.com</i></b></div>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/3%2B%20YEARS-ANALYTICS-0B7285?style=flat-square"/>
 <img src="https://img.shields.io/badge/CHENNAI-INDIA-164E63?style=flat-square"/>
@@ -21,9 +33,25 @@
 
 ---
 
-## ABOUT ME
+<!-- ANIMATED ANALYTICS HERO -->
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/kumaranm-official/kumaranm-official/main/assets/analytics-motion.gif" alt="Animated data analytics dashboard"/>
+
+</div>
+
+---
+
+<!-- ABOUT -->
+
+<h2 align="center">THE ANALYST BEHIND THE DATA</h2>
+
+<div align="center">
 
 ### Data is everywhere. Meaningful answers are not.
+
+</div>
 
 I'm **Kumaran M**, a Data Analyst with 3+ years of experience in analytics, currently working at **ENTRI**.
 
@@ -37,31 +65,77 @@ A small decision made without the right information can create consequences much
 
 ---
 
-## HOW I APPROACH A PROBLEM
+<!-- ANALYTICAL APPROACH -->
+
+<h2 align="center">HOW I APPROACH A PROBLEM</h2>
 
 <div align="center">
 
-| 01 · ASK | 02 · EXPLORE | 03 · VALIDATE | 04 · ACT |
-|:---:|:---:|:---:|:---:|
-| What is the actual business problem? | What does the data reveal? | Are the findings statistically reliable? | What should the business do next? |
-| <img src="https://img.shields.io/badge/QUESTION-35D6D0?style=flat-square"/> | <img src="https://img.shields.io/badge/INVESTIGATE-35D6D0?style=flat-square"/> | <img src="https://img.shields.io/badge/VERIFY-35D6D0?style=flat-square"/> | <img src="https://img.shields.io/badge/RECOMMEND-35D6D0?style=flat-square"/> |
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 01
+
+**ASK**
+
+What is the actual business problem?
+
+</td>
+<td align="center" width="25%">
+
+### 02
+
+**EXPLORE**
+
+What does the data reveal?
+
+</td>
+<td align="center" width="25%">
+
+### 03
+
+**VALIDATE**
+
+Are the findings statistically reliable?
+
+</td>
+<td align="center" width="25%">
+
+### 04
+
+**ACT**
+
+What should the business do next?
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## TECHNICAL TOOLKIT
+<!-- SKILLS -->
+
+<h2 align="center">TECHNICAL TOOLKIT</h2>
 
 <div align="center">
 
-*My tools for extracting, transforming, analysing and communicating data.*
+**My tools for extracting, transforming, analysing and communicating data.**
+
+<br/>
 
 ### PROGRAMMING & QUERYING
 
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql&theme=dark" />
 
+<br/>
+
 <img src="https://img.shields.io/badge/Python-ADVANCED-F2C811?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-ADVANCED-F2C811?style=flat-square&logo=postgresql&logoColor=white"/>
+
+<br/><br/>
 
 ### DATA ANALYSIS & VISUALIZATION
 
@@ -70,12 +144,16 @@ A small decision made without the right information can create consequences much
 <img src="https://img.shields.io/badge/Matplotlib-ADVANCED-F2C811?style=flat-square"/>
 <img src="https://img.shields.io/badge/Seaborn-ADVANCED-F2C811?style=flat-square"/>
 
+<br/><br/>
+
 ### BUSINESS INTELLIGENCE
 
 <img src="https://img.shields.io/badge/Power%20BI-ADVANCED-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/DAX-ADVANCED-F2C811?style=flat-square"/>
 <img src="https://img.shields.io/badge/Excel-ADVANCED-F2C811?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20Query-ADVANCED-F2C811?style=flat-square"/>
+
+<br/><br/>
 
 ### STATISTICS & MACHINE LEARNING
 
@@ -84,9 +162,13 @@ A small decision made without the right information can create consequences much
 <img src="https://img.shields.io/badge/A%2FB%20Testing-ADVANCED-F2C811?style=flat-square"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-INTERMEDIATE-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
+<br/><br/>
+
 ### VERSION CONTROL
 
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Git-INTERMEDIATE-F7931E?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-INTERMEDIATE-F7931E?style=flat-square&logo=github&logoColor=white"/>
@@ -95,7 +177,9 @@ A small decision made without the right information can create consequences much
 
 ---
 
-## SELECTED ANALYTICS PROJECTS
+<!-- PROJECTS -->
+
+<h2 align="center">SELECTED ANALYTICS PROJECTS</h2>
 
 <div align="center">
 
@@ -135,11 +219,14 @@ A PostgreSQL-based project exploring sales performance, customer purchasing patt
 
 <div align="center">
 
-<a href="https://github.com/kumaranm-official/Auto_Parts_Ecommerce_and_Retail_Sales_Analysis"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/kumaranm-official/Auto_Parts_Ecommerce_and_Retail_Sales_Analysis">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 </td>
+
 <td width="50%" valign="top">
 
 <div align="center">
@@ -170,7 +257,9 @@ An interactive Power BI project examining payroll distribution, overtime expendi
 
 <div align="center">
 
-<a href="https://github.com/kumaranm-official/Corporate_Payroll_Analysis_Snowflake_Schema"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-927000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/kumaranm-official/Corporate_Payroll_Analysis_Snowflake_Schema">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-927000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -180,27 +269,29 @@ An interactive Power BI project examining payroll distribution, overtime expendi
 
 ---
 
-## BUSINESS IMPACT
+<!-- IMPACT -->
+
+<h2 align="center">BUSINESS IMPACT</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 # 26%
 
 **Retention Improvement**
 
 </td>
-<td align="center" width="34%">
+<td align="center" width="50%">
 
 # 61% → 87%
 
 **Completion Rate**
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 # 12+
 
@@ -216,7 +307,9 @@ An interactive Power BI project examining payroll distribution, overtime expendi
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+<!-- EXPERIENCE -->
+
+<h2 align="center">PROFESSIONAL EXPERIENCE</h2>
 
 <div align="center">
 
@@ -235,7 +328,9 @@ An interactive Power BI project examining payroll distribution, overtime expendi
 
 ---
 
-## EDUCATION
+<!-- EDUCATION -->
+
+<h2 align="center">EDUCATION</h2>
 
 <div align="center">
 
@@ -247,22 +342,29 @@ Kings Engineering College · 2025
 
 ---
 
+<!-- CONTACT -->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:07111F,100:087E8B&height=3"/>
 
-## LET'S TURN DATA INTO BETTER DECISIONS.
+<h2>LET'S TURN DATA INTO BETTER DECISIONS.</h2>
 
 I'm interested in Data Analyst opportunities where I can combine technical expertise, analytical thinking and business understanding to solve real-world problems.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mkumaran13"><img src="https://img.shields.io/badge/LET'S%20CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/kumaranm-official/Certifications/blob/main/MyResume.pdf"><img src="https://img.shields.io/badge/Download%20My-Resume-DB4437?style=for-the-badge&logo=reader&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mkumaran13">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Email:** *kumaranm.ofcl@gmail.com*
+<a href="https://github.com/kumaranm-official/Certifications/blob/main/MyResume.pdf">
+<img src="https://img.shields.io/badge/Download%20My-Resume-DB4437?style=for-the-badge&logo=reader&logoColor=white"/>
+</a>
 
-<br/>
+<div>Email: <b><i>kumaranm.ofcl@gmail.com</i></b></div>
+
+<br/><br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=35D6D0&center=true&vCenter=true&width=600&lines=Ask+better+questions.;Find+meaningful+patterns.;Make+evidence-based+decisions."/>
 
