@@ -32,17 +32,6 @@
 </div>
 
 ---
-
-<!-- ANIMATED ANALYTICS HERO -->
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/kumaranm-official/kumaranm-official/main/assets/analytics-motion.gif" alt="Animated data analytics dashboard"/>
-
-</div>
-
----
-
 <!-- ABOUT -->
 
 <h2 align="center">THE ANALYST BEHIND THE DATA</h2>
